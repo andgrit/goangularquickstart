@@ -1,13 +1,10 @@
 # GO - Angular 2 QuickStart Source
 
-See [Angular 2 Quickstart](Angular2Quickstart.md) for the original copy of the README.md
+See [Angular 2 Quickstart](angular/README.md) for the original copy of the README.md
 See [Github Angular 2 Quickstart](https://github.com/angular/quickstart) for the live original repository.
 
-This repository is focused on the following:
-
-* Go server integration
-* In memory data repository
-* Mongodb data repository
+This repository just copies the contents of the original in a angular/ directory
+and adds a goserver/ directory with a simple program that returns the angular 2 content
 
 # Go server integraion
 
@@ -30,4 +27,3 @@ But lets start things up using go
     go build
     ./goserver
 
-    
